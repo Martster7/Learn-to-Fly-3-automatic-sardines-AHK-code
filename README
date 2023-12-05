@@ -1,0 +1,21 @@
+Thanks for viewing!                                                     Please read the description
+---------------------------------------------------------------------------------------------------------------------------
+Github: github.com/Martster7/Learn-to-Fly-3-automatic-sardines-AHK-code
+YouTube: youtube.com/channel/UC_-0cD9nL8B4YZYgABO_X8w
+---------------------------------------------------------------------------------------------------------------------------
+WARNING: DOING THIS WILL DELETE ALL YOUR SAVE GAME DATA, USE IT AT YOUR OWN RISK!!!!!!!
+Copy this Code: GetInline
+---------------------------------------------------------------------------------------------------------------------------
+Info: 1. copy the Code above
+         2. download AHK if you dont have it
+         3. go to the github link provided above
+         4. download the script
+         5. launch Ltf3
+         6. launch the script
+         7. click CTRL+ALT+Z to start the script
+         8. click CTRL+ALT+C to stop the script
+---------------------------------------------------------------------------------------------------------------------------
+You can edit the script how you like, most likely the loops, in default it will make 66 loops = 9900 sardines, in 10 minutes
+The script will automatically close once the loops are done
+One loop takes about 8 seconds and makes 150 sardines
+---------------------------------------------------------------------------------------------------------------------------
